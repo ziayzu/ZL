@@ -33,7 +33,6 @@ public class CheckFileOnDiskTask extends DownloaderTask {
     private boolean checkFile() throws IOException {
         File localFile = mMetadata.path;
         if(!localFile.exists()) return false;
-        if(!localFile.canRead()) throw new IOException("File "+localFile.getName() +" does not have read permissions!");
         if(!LauncherPreferences.PREF_VERIFY_FILES) return true;
         if(mMetadata.size != -1) {
             if(mMetadata.size != localFile.length()) return false;
