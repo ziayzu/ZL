@@ -239,7 +239,6 @@
     <string name="storage_required">O MojoLauncher requer que o armazenamento externo seja conectado. Por favor, reconecte-o e reinicie o aplicativo.</string>
     <string name="mcl_setting_title_buttonallcaps">Somente use letras maiúsculas em rótulos de botões</string>
     <string name="mcl_setting_subtitle_buttonallcaps">Desative isso se você quiser usar letras minúsculas em seus controles.</string>
-    <string name="create_profile">Criar novo perfil</string>
     <string name="preference_shader_dump_title">Habilitar despejo de shader</string>
     <string name="preference_shader_dump_description">Registrar shaders convertidos no arquivo de registro.</string>
     <string name="percent_format">%d%%</string>

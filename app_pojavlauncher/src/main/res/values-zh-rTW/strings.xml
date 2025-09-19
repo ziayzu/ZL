@@ -239,7 +239,6 @@
     <string name="storage_required">MojoLauncher 需要連接外部儲存空間，請重新連接並重新啟動應用程式。</string>
     <string name="mcl_setting_title_buttonallcaps">在按鈕標籤中僅使用大寫字母</string>
     <string name="mcl_setting_subtitle_buttonallcaps">如果你想在控制鍵中使用並顯示小寫字母，請關閉此設定。</string>
-    <string name="create_profile">新增設定檔</string>
     <string name="preference_shader_dump_title">啟用著色器傾印</string>
     <string name="preference_shader_dump_description">將轉換後的著色器記錄到記錄檔中。</string>
     <string name="percent_format">%d%%</string>

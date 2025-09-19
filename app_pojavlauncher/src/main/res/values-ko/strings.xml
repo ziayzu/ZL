@@ -238,7 +238,6 @@
     <string name="storage_required">MojoLuancher를 사용하려면 외부 저장소를 연결해야합니다. 다시 연결한 후 앱을 다시 시작하세요.</string>
     <string name="mcl_setting_title_buttonallcaps">컨트롤 버튼 문자에 대문자만 사용</string>
     <string name="mcl_setting_subtitle_buttonallcaps">컨트롤 버튼 문자에 소문자를 사용하려면 이것을 비활성화하세요.</string>
-    <string name="create_profile">새 프로필 생성</string>
     <string name="preference_shader_dump_title">쉐이더 덤핑 활성화</string>
     <string name="preference_shader_dump_description">쉐이더 변환 결과를 로그 파일로 저장.</string>
     <string name="percent_format">%d%%</string>

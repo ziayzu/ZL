@@ -239,7 +239,6 @@
     <string name="storage_required">يتطلب MojoLauncher أن تكون وحدة التخزين الخارجية متصلة. الرجاء إعادة الاتصال بها وإعادة تشغيل التطبيق.</string>
     <string name="mcl_setting_title_buttonallcaps">استخدم الأحرف الكبيرة فقط في اسماء الأزرار</string>
     <string name="mcl_setting_subtitle_buttonallcaps">عطل هذا اذا كنت تريد إستخدام الأحرف الصغيرة.</string>
-    <string name="create_profile">إنشاء ملف شخصي جديد</string>
     <string name="preference_shader_dump_title">تمكين افراغ الشادر</string>
     <string name="preference_shader_dump_description">سجل الShaders المحولة داخل ملف السجل.</string>
     <string name="percent_format">%d%%</string>

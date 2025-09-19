@@ -239,7 +239,6 @@
     <string name="storage_required">MojoLauncher 需要连接外部存储，请重新连接并重启应用。</string>
     <string name="mcl_setting_title_buttonallcaps">在按钮标签中仅使用大写字母</string>
     <string name="mcl_setting_subtitle_buttonallcaps">如果您想在按键中显示小写字母，请关闭此设置。</string>
-    <string name="create_profile">创建新配置</string>
     <string name="preference_shader_dump_title">启用着色器输出</string>
     <string name="preference_shader_dump_description">记录切换的着色器到日志文件中。</string>
     <string name="percent_format">%d%%</string>

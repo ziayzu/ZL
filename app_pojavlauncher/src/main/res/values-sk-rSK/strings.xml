@@ -231,7 +231,6 @@
     <string name="storage_required">MojoLauncher vyžaduje pripojené externé úložisko. Pripojte ho a reštartujte aplikáciu.</string>
     <string name="mcl_setting_title_buttonallcaps">V označeniach tlačidiel používať len veľké písmená</string>
     <string name="mcl_setting_subtitle_buttonallcaps">Ak chcete v ovládacích prvkoch používať malé písmená, vypnite toto.</string>
-    <string name="create_profile">Vytvoriť nový profil</string>
     <string name="preference_shader_dump_title">Povolenie shader dumpingu</string>
     <string name="preference_shader_dump_description">Všetky konvertované shadery sa vypíšu do logu.</string>
     <string name="percent_format">%d%%</string>

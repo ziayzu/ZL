@@ -179,7 +179,6 @@
     <string name="preference_gyro_sensitivity_title">Controalele tiroscopului controlează sensibilitatea</string>
     <string name="preference_gyro_sample_rate_title">Rata de eşantionare giroscopică</string>
     <string name="microsoft_login_retry_later">Prea multe solicitări, vă rugăm să încercaţi din nou mai târziu.</string>
-    <string name="create_profile">Creează un profil nou</string>
     <string name="preference_shader_dump_title">Activează dumping pentru shader</string>
     <string name="percent_format">%d%%</string>
     <string name="customctrl_editor_exit_title">Părăsiți?</string>

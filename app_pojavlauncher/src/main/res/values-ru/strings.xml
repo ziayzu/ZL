@@ -246,7 +246,6 @@
     <string name="storage_required">MojoLauncher требует подключения к внешнему хранилищу. Переподключите его и перезапустите приложение.</string>
     <string name="mcl_setting_title_buttonallcaps">Заглавные буквы на кнопках</string>
     <string name="mcl_setting_subtitle_buttonallcaps">Отключите, если хотите использовать строчные буквы в своей раскладке управления.</string>
-    <string name="create_profile">Новый профиль</string>
     <string name="create_instance">Создать новую установку</string>
     <string name="preference_shader_dump_title">Сохранять дамп шейдеров</string>
     <string name="preference_shader_dump_description">Записывать в файл журнала данные о конвертации шейдеров.</string>

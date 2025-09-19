@@ -130,7 +130,6 @@
     <string name="folder_fragment_create">Loo kaust</string>
     <string name="main_login_done">Sisenemine õnnestus</string>
     <string name="main_add_account">Lisa konto</string>
-    <string name="create_profile">Loo uus profiil</string>
     <string name="percent_format">%d%%</string>
     <string name="customctrl_editor_exit_title">Lahkud?</string>
     <string name="customctrl_editor_exit_msg">Kas sa oled kindel, et soovid lahkuda?</string>

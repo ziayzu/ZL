@@ -201,7 +201,6 @@
     <string name="preference_gyro_sensitivity_title">ジャイロコントロールの感度</string>
     <string name="preference_gyro_sample_rate_title">ジャイロコントロールサンプリングの速度</string>
     <string name="microsoft_login_retry_later">リクエストが多すぎるため、後でもう一度お試しください。</string>
-    <string name="create_profile">新規プロフィールの作成</string>
     <string name="preference_shader_dump_title">シェーダーダンプをオンにする</string>
     <string name="percent_format">%d%%</string>
     <string name="customctrl_editor_exit_title">終了しますか？</string>

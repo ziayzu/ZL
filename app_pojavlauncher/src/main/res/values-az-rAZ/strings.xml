@@ -233,7 +233,6 @@
     <string name="storage_required">MojoLauncher xarici yaddaşın əlavə edilməsini tələb edir. Lütfən, onu yenidən qoşun və proqramı yenidən başladın.</string>
     <string name="mcl_setting_title_buttonallcaps">Düymə etiketlərində yalnız böyük hərflərdən istifadə edin</string>
     <string name="mcl_setting_subtitle_buttonallcaps">İdarəetmə elementlərində kiçik hərflərdən istifadə etmək istəyirsinizsə, bunu söndürün.</string>
-    <string name="create_profile">Yeni profil yaradın</string>
     <string name="preference_shader_dump_title">Kölgələndirici boşaltmanı aktivləşdir</string>
     <string name="preference_shader_dump_description">Çevrilmiş kölgələndiriciləri log faylına daxil edin.</string>
     <string name="percent_format">%d%%</string>

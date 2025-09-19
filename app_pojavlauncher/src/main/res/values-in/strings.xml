@@ -239,7 +239,6 @@
     <string name="storage_required">MojoLauncher membutuhkan penyimpanan eksternal. Mohon untuk dipasang kembali dan merestart aplikasi.</string>
     <string name="mcl_setting_title_buttonallcaps">Hanya gunakan huruf kapital di label tombol</string>
     <string name="mcl_setting_subtitle_buttonallcaps">Matikan ini jika kamu ingin menggunakan huruf kecil di kontrol.</string>
-    <string name="create_profile">Buat profil baru</string>
     <string name="preference_shader_dump_title">Aktifkan shader dumping</string>
     <string name="preference_shader_dump_description">Simpan catatan shader ke sebuah berkas.</string>
     <string name="percent_format">%d%%</string>

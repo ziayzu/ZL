@@ -234,7 +234,6 @@
     <string name="storage_required">MojoLauncher จำเป็นต้องแนบที่จัดเก็บข้อมูลภายนอก โปรดเชื่อมต่อใหม่และรีสตาร์ทแอป</string>
     <string name="mcl_setting_title_buttonallcaps">ใช้อักษรตัวพิมพ์ใหญ่ในป้ายปุ่มเท่านั้น</string>
     <string name="mcl_setting_subtitle_buttonallcaps">ปิดการใช้งานนี้หากคุณต้องการใช้อักษรตัวพิมพ์เล็กในการควบคุมของคุณ</string>
-    <string name="create_profile">สร้างโปรไฟล์ใหม่</string>
     <string name="preference_shader_dump_title">เปิดใช้งานบันทึกข้อมูลเชเดอร์</string>
     <string name="preference_shader_dump_description">บันทึกการแปลงเชเดอร์ลงในไฟล์บันทึก</string>
     <string name="percent_format">%d%%</string>

@@ -239,7 +239,6 @@
     <string name="storage_required">MojoLauncher benötigt einen verbundenen externen Speicher. Bitte verbinde ihn erneut und starte dann die App neu.</string>
     <string name="mcl_setting_title_buttonallcaps">Nur Großbuchstaben in Tastenbeschriftungen verwenden</string>
     <string name="mcl_setting_subtitle_buttonallcaps">Deaktivieren, um Kleinbuchstaben für die Steuerung zu verwenden.</string>
-    <string name="create_profile">Neues Profil erstellen</string>
     <string name="preference_shader_dump_title">Shader-Dumping aktivieren</string>
     <string name="preference_shader_dump_description">Konvertierte Shader mit in die Protokolldatei schreiben.</string>
     <string name="percent_format">%d%%</string>

@@ -234,7 +234,6 @@
     <string name="storage_required">MojoLauncher потребує під’єднання до сховища. Будь ласка, під’єднайте його ще раз і перезапустіть додаток.</string>
     <string name="mcl_setting_title_buttonallcaps">Використовувати лише великі літери в назвах кнопок</string>
     <string name="mcl_setting_subtitle_buttonallcaps">Вимкніть, якщо бажаєте використовувати малі літери в елементах керування.</string>
-    <string name="create_profile">Створити профіль</string>
     <string name="preference_shader_dump_title">Увімкнути вивантажування шейдерів</string>
     <string name="preference_shader_dump_description">Записувати дані про перетворені шейдери у файл журналу.</string>
     <string name="percent_format">%d%%</string>

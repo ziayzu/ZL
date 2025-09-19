@@ -201,7 +201,6 @@
     <string name="preference_enable_gyro_description">Įjungus leis pasisukti žaidime pasukant telefoną.</string>
     <string name="preference_gyro_sensitivity_title">Gyroskopo kontroliu sensityvumas</string>
     <string name="microsoft_login_retry_later">Per daug užklausų, pabandykite dar kartą vėliau.</string>
-    <string name="create_profile">Sukurti naują profilį</string>
     <string name="percent_format">%d%%</string>
     <string name="customctrl_editor_exit_title">Išeinate?</string>
     <string name="customctrl_editor_exit_msg">Ar tikrai norite išeiti?</string>
